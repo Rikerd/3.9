@@ -1192,8 +1192,8 @@ GameObject:
   - component: {fileID: 308622893}
   - component: {fileID: 308622892}
   - component: {fileID: 308622891}
-  - component: {fileID: 308622890}
   - component: {fileID: 308622889}
+  - component: {fileID: 308622890}
   m_Layer: 5
   m_Name: Pause Menu
   m_TagString: Untagged
